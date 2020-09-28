@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I am Vaibhav :smile:
+
+![meditate](https://i.imgur.com/5OJV0gx.jpg)
+
 
 <!--
 **Vaibhav015/vaibhav015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
